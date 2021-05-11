@@ -1,5 +1,5 @@
 body {
-    height: 100vh;
+    height: 100vh; /*Important to set height so that the box remains centered on the view window*/
     width: 100vw;
     margin: 0;
     color:rgb(46, 51, 56);
